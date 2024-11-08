@@ -11,7 +11,7 @@ Este trabalho visa analisar dados sobre alunos estrangeiros no 2º semestre de 2
 [ver atividade](https://github.com/user-attachments/files/17684819/trabalho.1.xlsx)
 
 
-## Planilhas: fórmulas e dados abertos
+## Tarefa 2: Power BI, dados abertos e Github
 
 Template para o trabalho de Informática Aplacada a Logistica 
 
