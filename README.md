@@ -8,6 +8,7 @@ Este trabalho visa analisar dados sobre alunos estrangeiros no 2º semestre de 2
 
 ![Captura de tela 2024-11-08 194450](https://github.com/user-attachments/assets/8c712f62-41da-4cc3-9961-168c664a0160)
 
+(ver atividade)[trabalho 1.xlsx](https://github.com/user-attachments/files/17684819/trabalho.1.xlsx)
 
 
 ## Planilhas: fórmulas e dados abertos
