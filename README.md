@@ -6,7 +6,8 @@
 
 Este trabalho visa analisar dados sobre alunos estrangeiros no 2º semestre de 2023, usando funções do Excel para calcular o número de alunos por nacionalidade em escolas e municípios, além de identificar a nacionalidade com maior presença em São Paulo. Gráficos serão criados para visualização dos resultados, e o arquivo final será compartilhado no GitHub.
 
-![Captura de tela 2024-11-08 193636](https://github.com/user-attachments/assets/a64950ae-12a7-449f-9751-d69c70352e8a)
+![Captura de tela 2024-11-08 194450](https://github.com/user-attachments/assets/8c712f62-41da-4cc3-9961-168c664a0160)
+
 
 
 ## Planilhas: fórmulas e dados abertos
