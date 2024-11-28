@@ -47,7 +47,9 @@ Projeto baseado no levantamento dos dados das escolas estaduais do Estado de Sã
 ## tarefa     
 O aplicativo "Futpédia" foi criado com o objetivo de fornecer uma plataforma interativa e informativa, apresentando dados detalhados sobre os jogadores de cinco grandes clubes de futebol do Brasil: Flamengo, Palmeiras, São Paulo, Grêmio e Atlético Mineiro. A ideia surgiu da necessidade de torcedores e entusiastas do futebol acessarem rapidamente informações relevantes sobre seus ídolos e futuros craques do esporte.!
 [Capturar1]
-(https://github.com/user-attachments/assets/7a843d76-6c38-404e-b35c- 
+(https://github.com/user-attachments/assets/7a843d76-6c38-404e-b35c-)
+
+
 ##tarefa 1 https://github.com/user-attachments/assets/e2099c30-ee7f-410f-97e6-ee95efeddf48ae79ad2c61a4)
 
 
