@@ -59,7 +59,7 @@ https://app.powerbi.com/onedrive/open?pbi_source=ODSPViewer&driveId=b!mFFfANxZaU
 ## tarefa     
 O aplicativo "Futpédia" foi criado com o objetivo de fornecer uma plataforma interativa e informativa, apresentando dados detalhados sobre os jogadores de cinco grandes clubes de futebol do Brasil: Flamengo, Palmeiras, São Paulo, Grêmio e Atlético Mineiro. A ideia surgiu da necessidade de torcedores e entusiastas do futebol acessarem rapidamente informações relevantes sobre seus ídolos e futuros craques do esporte.!
 [Capturar1]
-(https://github.com/user-attachments/assets/7a843d76-6c38-404e-b35c-)
+https://fatecspgov-my.sharepoint.com/personal/juan_mendes_fatec_sp_gov_br/_layouts/15/stream.aspx?id=%2Fpersonal%2Fjuan%5Fmendes%5Ffatec%5Fsp%5Fgov%5Fbr%2FDocuments%2Ffatec%2Finformatica%2Fpower%2Dapps%2Dstudio%2D2024%2D11%2D22%2D20%2D04%2D33%5FKnlLKgHw%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb3a55617%2D0866%2D4708%2Db263%2D3fd67206de94
 
 
 ##tarefa 1 (https://github.com/user-attachments/assets/e2099c30-ee7f-410f-97e6-ee95efeddf48ae79ad2c61a4
