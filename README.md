@@ -43,7 +43,7 @@ Projeto baseado no levantamento dos dados das escolas estaduais do Estado de Sã
 ## bandeira tarefa 1
 
  ![Captura de tela bandeira 2024-11-07 210401](https://github.com/user-attachments/assets/d22f1786-4349-4112-95de-5a087e529023)
- ## bandeira tarefa 2 
+ ##  tarefa 2 
 ![image](https://github.com/user-attachments/assets/fd8cd01f-5365-4855-9952-5527be395367)
 https://app.powerbi.com/onedrive/open?pbi_source=ODSPViewer&driveId=b!mFFfANxZaUiQTHeDiFGSkQ3SZuuMZsZEhCJqXYkmwEpiCrDea0qNRZSwSdZHiGa3&itemId=016LLABZAWYCAASQTKKBGYPK25CEVU4PX4&redirectedFromSignup=1&redirectedFromSignup=1&noSignUpCheck=1&ScenarioId=Signup%3Fru%3Dhttps:%2F%2Fapp.powerbi.com%2Fonedrive%2Fopen%3Fpbi_source%3DODSPViewer%26driveId%3Db!mFFfANxZaUiQTHeDiFGSkQ3SZuuMZsZEhCJqXYkmwEpiCrDea0qNRZSwSdZHiGa3%26itemId%3D016LLABZAWYCAASQTKKBGYPK25CEVU4PX4%26redirectedFromSignup%3D1%26noSignUpCheck%3D1%26ScenarioId%3DSignup&redirectedWaitSimple=1
 
