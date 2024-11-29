@@ -40,7 +40,7 @@ Projeto baseado no levantamento dos dados das escolas estaduais do Estado de Sã
     
 5 - 914     
 
-
+## bandeira tarefa 1
 
  ![Captura de tela bandeira 2024-11-07 210401](https://github.com/user-attachments/assets/d22f1786-4349-4112-95de-5a087e529023)
 
