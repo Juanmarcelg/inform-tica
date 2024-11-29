@@ -49,6 +49,9 @@ https://app.powerbi.com/onedrive/open?pbi_source=ODSPViewer&driveId=b!mFFfANxZaU
 ##  tarefa 3 
 ![image](https://github.com/user-attachments/assets/b63a7bf5-7ef8-412c-b950-4a9ba847f150)
 https://app.powerbi.com/onedrive/open?pbi_source=ODSPViewer&driveId=b!oVdBBm2KoUyComF1zC-A5Gh32XGVJz5FlZxL_l0czuw6X_eWa1sVTYWQfnUp0KnI&itemId=01H3DIBQHIWYQ3J4RDSVAI5GRTA4N2D56G
+##  tarefa 4
+![image](https://github.com/user-attachments/assets/a718da01-5813-4c86-9b12-df9c73dbbac3)
+https://app.powerbi.com/onedrive/open?pbi_source=ODSPViewer&driveId=b!mFFfANxZaUiQTHeDiFGSkQ3SZuuMZsZEhCJqXYkmwEpiCrDea0qNRZSwSdZHiGa3&itemId=016LLABZHPIMHXH2WSWND22FDINPCYS6KV
 
 
 
